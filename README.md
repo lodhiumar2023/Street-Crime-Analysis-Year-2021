@@ -1,5 +1,8 @@
 # Crime Data Analysis for Street Crime in the Year 2021
 
+![Dashboard](images/Dashboard.png) <br> <br>
+![Insights](images/Insights.jpg) 
+
 ## Insight Points:
 
 ### Total Reported Crime:
